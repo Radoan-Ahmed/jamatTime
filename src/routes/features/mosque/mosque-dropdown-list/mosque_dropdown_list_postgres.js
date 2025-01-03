@@ -1,7 +1,7 @@
 "use strict";
 const log = require("../../../../util/log");
 const Dao = require("../../../../util/dao");
-const { TABLE, SCHEMA, STATUS } = require("../../../../util/constant");
+const { TABLE, SCHEMA } = require("../../../../util/constant");
 const { template } = require("underscore");
 
 class query_builder {
@@ -9,7 +9,7 @@ class query_builder {
         let payload = request.payload;
         let data = [];
         let params = [];
-        let query = `SELECT m.name, m.mosque_id FROM ${SCHEMA.TEMPLATE}${TABLE.MOSQUE} m
+        let query = `SELECT m.name, m.oid, m.location FROM ${SCHEMA.TEMPLATE}${TABLE.MOSQUE} m
         WHERE 1 = 1`
 
         let idx = 1;

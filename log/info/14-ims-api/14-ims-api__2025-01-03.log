@@ -1,3 +1,93 @@
 2025-01-03 12:00:03.310 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
 2025-01-03 12:00:03.313 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
 2025-01-03 12:47:30.302 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 15:14:00.420 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 15:14:00.423 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 15:23:49.034 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 15:23:49.041 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 15:24:05.033 [QI7IEDCHPHY7] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [3] MFI Employee information found for dropdown 
+2025-01-03 16:01:57.572 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:01:57.574 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:12:47.873 [DI6XEGKBMSHM] ERROR - util/dao.js:108 - Unable to execute statement in database :  column "oid" does not exist 
+2025-01-03 16:12:47.877 [DI6XEGKBMSHM] ERROR - routes/features/mosque/mosque-list/mosque_list_postgres.js:45 - An exception occurred while getting mosque list: column "oid" does not exist 
+2025-01-03 16:16:10.321 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:16:10.335 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:16:14.188 [HNZG2YAHFXFS] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [4] MFI Employee information found for dropdown 
+2025-01-03 16:16:37.895 [3OXUCOWDYWPS] ERROR - util/dao.js:108 - Unable to execute statement in database :  column "mosque_id" does not exist 
+2025-01-03 16:16:37.899 [3OXUCOWDYWPS] ERROR - routes/features/mosque/mosque-list/mosque_list_postgres.js:45 - An exception occurred while getting mosque list: column "mosque_id" does not exist 
+2025-01-03 16:16:54.506 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:16:54.508 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:17:00.434 [KCWBOLMNLFEF] ERROR - routes/features/mosque/mosque-list/mosque_list_postgres.js:45 - An exception occurred while getting mosque list: convert_keys_to_lower_case is not defined 
+2025-01-03 16:17:28.076 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:17:28.080 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:17:55.919 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:17:55.923 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:18:10.383 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:18:10.389 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:19:01.824 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:19:01.827 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:19:06.032 [DLNLPSFVBGTL] INFO - routes/features/mosque/mosque-list/mosque_list_api.js:48 - Returning Response for - with 4 mosque items found] 
+2025-01-03 16:28:52.766 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:28:52.769 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:29:36.390 [GNFT9CDTUUP2] INFO - routes/features/mosque/mosque-by-oid/mosque_by_oid_api.js:44 - mosque information found by oid: [3] 
+2025-01-03 16:30:00.608 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:30:00.611 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:30:03.683 [MMXPOZZMNEEB] INFO - routes/features/mosque/mosque-by-oid/mosque_by_oid_api.js:44 - mosque information found by oid: [3] 
+2025-01-03 16:56:17.190 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:56:17.193 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:56:36.840 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:56:36.843 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:11:37.474 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:11:37.476 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:11:40.707 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:11:40.710 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:15:55.999 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:15:56.001 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:33:28.911 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:33:28.914 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:34:02.435 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:34:02.437 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:37:56.386 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:37:56.389 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:38:00.287 [EURBGEWSSXWN] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 18:38:37.267 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:38:37.270 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:38:42.228 [WWACQ0AB9X4K] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 18:38:42.230 [WWACQ0AB9X4K] ERROR - routes/features/mosque/mosque-create/mosque_create_postgres.js:20 - An exception occurred while creating mosque : invalid input syntax for type integer: "ae35f881-2685-49a5-a011-c1cdb0f7e6a2" 
+2025-01-03 18:38:42.231 [WWACQ0AB9X4K] WARN - routes/features/mosque/mosque-create/mosque_create_api.js:43 - Response returned with code: '504' 
+2025-01-03 18:39:44.723 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:39:44.725 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:39:47.711 [VZRJBL0JLRSL] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 18:39:47.713 [VZRJBL0JLRSL] ERROR - routes/features/mosque/mosque-create/mosque_create_postgres.js:20 - An exception occurred while creating mosque : time zone "gmt+0600" not recognized 
+2025-01-03 18:39:47.714 [VZRJBL0JLRSL] WARN - routes/features/mosque/mosque-create/mosque_create_api.js:43 - Response returned with code: '504' 
+2025-01-03 18:41:29.120 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:41:29.122 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:49:19.877 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:49:19.880 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:49:25.034 [AEWCE2ZI7URQ] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:48 - mosque created successfully by 
+2025-01-03 18:49:40.022 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:49:40.026 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:49:44.062 [0YUJFBKD9NPY] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 18:49:44.063 [0YUJFBKD9NPY] ERROR - routes/features/mosque/mosque-create/mosque_create_postgres.js:20 - An exception occurred while creating mosque : invalid input syntax for type integer: "8aaea9d3-709c-41e8-8b8f-cdb6b1a1bc06" 
+2025-01-03 18:49:44.065 [0YUJFBKD9NPY] WARN - routes/features/mosque/mosque-create/mosque_create_api.js:43 - Response returned with code: '504' 
+2025-01-03 19:49:13.471 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 19:49:13.475 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 19:49:19.588 [FYR7PHOA6UA4] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:49 - mosque created successfully by 
+2025-01-03 19:50:39.420 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 19:50:39.423 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 19:50:44.768 [L3GMHMEXSQTO] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:49 - mosque created successfully by 
+2025-01-03 19:54:03.827 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 19:54:03.831 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 19:54:10.472 [V1KA6TJICUSW] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:49 - mosque created successfully by 
+2025-01-03 20:45:51.470 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 20:45:51.472 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 20:45:55.309 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 20:45:55.311 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 20:51:06.782 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 20:51:06.787 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 20:51:11.720 [GFY886H7WYDF] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 20:51:11.723 [GFY886H7WYDF] ERROR - routes/features/mosque/mosque-update/mosque_update_postgres.js:17 - An exception occurred while updating bank branch : syntax error at or near "Date" 
+2025-01-03 20:51:46.657 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 20:51:46.666 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 20:51:52.215 [WQDEP3A8XXE0] INFO - routes/features/mosque/mosque-update/mosque_update_api.js:49 - mosque updated successfully by for oid: [1] 
+2025-01-03 20:52:05.891 [MPN9MV0FEGOE] INFO - routes/features/mosque/mosque-update/mosque_update_api.js:49 - mosque updated successfully by for oid: [1] 

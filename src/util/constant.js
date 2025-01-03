@@ -47,10 +47,10 @@ module.exports = {
         V1_GET_TABLE_CONFIG: "/v1/common/table/get-config/{table_id}",
 
         // mosque
-        V1_CREATE_DIVISION: "/v1/configurations/create-division",
-        V1_UPDATE_SINGLE_DIVISION: "/v1/configurations/update-single-division",
-        V1_GET_SINGLE_DIVISION: "/v1/configurations/get-single-division",
-        V1_GET_DIVISION_LIST: "/v1/configurations/get-division-list",
+        CREATE_MOSQUE: "/v1/features/mosque/create-mosque-list",
+        UPDATE_SINGLE_MOSQUE: "/v1/features/mosque/update-single-mosque",
+        GET_SINGLE_MOSQUE_LIST: "/v1/features/mosque/single-mosque-list",
+        MOSQUE_LIST: "/v1/features/mosque/mosque-list",
         MOSQUE_DROPDOWN_LIST: "/v1/features/mosque/mosque-dropdown-list",
 
     },

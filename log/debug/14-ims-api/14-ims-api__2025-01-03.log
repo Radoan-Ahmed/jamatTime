@@ -1,3 +1,133 @@
 2025-01-03 12:00:03.311 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
 2025-01-03 12:00:03.313 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
 2025-01-03 12:47:30.303 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 15:14:00.421 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 15:14:00.423 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 15:23:49.038 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 15:23:49.042 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 15:24:05.010 [QI7IEDCHPHY7] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:33 - Checking payload: 
+2025-01-03 15:24:05.012 [QI7IEDCHPHY7] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:43 - Request received for MFI Employee dropdown list - {} 
+2025-01-03 15:24:05.034 [QI7IEDCHPHY7] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [3] MFI Employee information found for dropdown 
+2025-01-03 15:24:05.038 [QI7IEDCHPHY7] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:45 - Response sent - {"code":200,"status":true,"message":"Mfi employee list found","data":[{"name":"Al-Falah Mosque","mosque_id":1},{"name":"Al-Nur Mosque","mosque_id":2},{"name":"Al-Rahman Mosque","mosque_id":3}]} 
+2025-01-03 16:01:57.573 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:01:57.574 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:12:47.847 [DI6XEGKBMSHM] DEBUG - routes/features/mosque/mosque-list/mosque_list_api.js:35 - Request received for mosque list {"offset":0} 
+2025-01-03 16:12:47.875 [DI6XEGKBMSHM] ERROR - util/dao.js:108 - Unable to execute statement in database :  column "oid" does not exist 
+2025-01-03 16:12:47.878 [DI6XEGKBMSHM] ERROR - routes/features/mosque/mosque-list/mosque_list_postgres.js:45 - An exception occurred while getting mosque list: column "oid" does not exist 
+2025-01-03 16:16:10.325 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:16:10.337 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:16:14.179 [HNZG2YAHFXFS] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:33 - Checking payload: 
+2025-01-03 16:16:14.181 [HNZG2YAHFXFS] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:43 - Request received for MFI Employee dropdown list - {} 
+2025-01-03 16:16:14.189 [HNZG2YAHFXFS] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [4] MFI Employee information found for dropdown 
+2025-01-03 16:16:14.191 [HNZG2YAHFXFS] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:45 - Response sent - {"code":200,"status":true,"message":"Mfi employee list found","data":[{"name":"Al-Falah Mosque","oid":1,"location":"Dhaka, Bangladesh"},{"name":"Al-Nur Mosque","oid":2,"location":"Chittagong, Bangladesh"},{"name":"Al-Rahman Mosque","oid":3,"location":"Rajshahi, Bangladesh"},{"name":"Al-Falah Mosque","oid":4,"location":"Dhaka, Bangladesh"}]} 
+2025-01-03 16:16:37.889 [3OXUCOWDYWPS] DEBUG - routes/features/mosque/mosque-list/mosque_list_api.js:35 - Request received for mosque list {"offset":0} 
+2025-01-03 16:16:37.896 [3OXUCOWDYWPS] ERROR - util/dao.js:108 - Unable to execute statement in database :  column "mosque_id" does not exist 
+2025-01-03 16:16:37.900 [3OXUCOWDYWPS] ERROR - routes/features/mosque/mosque-list/mosque_list_postgres.js:45 - An exception occurred while getting mosque list: column "mosque_id" does not exist 
+2025-01-03 16:16:54.507 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:16:54.508 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:17:00.428 [KCWBOLMNLFEF] DEBUG - routes/features/mosque/mosque-list/mosque_list_api.js:35 - Request received for mosque list {"offset":0} 
+2025-01-03 16:17:00.435 [KCWBOLMNLFEF] ERROR - routes/features/mosque/mosque-list/mosque_list_postgres.js:45 - An exception occurred while getting mosque list: convert_keys_to_lower_case is not defined 
+2025-01-03 16:17:28.078 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:17:28.080 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:17:30.925 [TNBWAPSDBUOP] DEBUG - routes/features/mosque/mosque-list/mosque_list_api.js:35 - Request received for mosque list {"offset":0} 
+2025-01-03 16:17:55.920 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:17:55.923 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:17:58.959 [PUHBYJVLMLWB] DEBUG - routes/features/mosque/mosque-list/mosque_list_api.js:35 - Request received for mosque list {"offset":0} 
+2025-01-03 16:18:10.384 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:18:10.389 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:18:14.611 [E6OMNJHGVSXU] DEBUG - routes/features/mosque/mosque-list/mosque_list_api.js:35 - Request received for mosque list {"offset":0} 
+2025-01-03 16:19:01.825 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:19:01.828 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:19:06.023 [DLNLPSFVBGTL] DEBUG - routes/features/mosque/mosque-list/mosque_list_api.js:35 - Request received for mosque list {"offset":0} 
+2025-01-03 16:19:06.033 [DLNLPSFVBGTL] INFO - routes/features/mosque/mosque-list/mosque_list_api.js:48 - Returning Response for - with 4 mosque items found] 
+2025-01-03 16:19:06.036 [DLNLPSFVBGTL] DEBUG - routes/features/mosque/mosque-list/mosque_list_api.js:37 - Response sent for mosque list- {"code":200,"status":true,"message":"Mosque list found","data":{"total":"4","rows":[{"oid":4,"name":"Al-Falah Mosque","location":"Dhaka, Bangladesh","created_by":"riyad","created_on":"2025-01-03T09:52:19.393Z"},{"oid":3,"name":"Al-Rahman Mosque","location":"Rajshahi, Bangladesh","created_by":null,"created_on":"2025-01-03T09:43:17.118Z"},{"oid":2,"name":"Al-Nur Mosque","location":"Chittagong, Bangladesh","created_by":null,"created_on":"2025-01-03T09:43:17.118Z"},{"oid":1,"name":"Al-Falah Mosque","location":"Dhaka, Bangladesh","created_by":null,"created_on":"2025-01-03T09:43:17.118Z"}]}} 
+2025-01-03 16:28:52.767 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:28:52.769 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:29:36.364 [GNFT9CDTUUP2] DEBUG - routes/features/mosque/mosque-by-oid/mosque_by_oid_api.js:31 - Request received for single mosque {"oid":"3"} 
+2025-01-03 16:29:36.390 [GNFT9CDTUUP2] INFO - routes/features/mosque/mosque-by-oid/mosque_by_oid_api.js:44 - mosque information found by oid: [3] 
+2025-01-03 16:29:36.392 [GNFT9CDTUUP2] DEBUG - routes/features/mosque/mosque-by-oid/mosque_by_oid_api.js:33 - Response sent for single mosque- {"code":200,"status":true,"message":"Mosque details found","data":{"oid":3,"name":"Al-Rahman Mosque","location":"Rajshahi, Bangladesh","updated_by":null,"updated_on":"2025-01-03T09:43:17.118Z"}} 
+2025-01-03 16:30:00.609 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:30:00.611 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:30:03.672 [MMXPOZZMNEEB] DEBUG - routes/features/mosque/mosque-by-oid/mosque_by_oid_api.js:31 - Request received for single mosque {"oid":"3"} 
+2025-01-03 16:30:03.684 [MMXPOZZMNEEB] INFO - routes/features/mosque/mosque-by-oid/mosque_by_oid_api.js:44 - mosque information found by oid: [3] 
+2025-01-03 16:30:03.687 [MMXPOZZMNEEB] DEBUG - routes/features/mosque/mosque-by-oid/mosque_by_oid_api.js:33 - Response sent for single mosque- {"code":200,"status":true,"message":"Mosque details found","data":{"oid":3,"name":"Al-Rahman Mosque","location":"Rajshahi, Bangladesh","created_by":null,"created_on":"2025-01-03T09:43:17.118Z"}} 
+2025-01-03 16:56:17.191 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:56:17.194 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 16:56:36.841 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 16:56:36.843 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:11:37.474 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:11:37.476 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:11:40.708 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:11:40.710 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:15:56.000 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:15:56.002 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:33:28.912 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:33:28.914 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:34:02.435 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:34:02.437 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:35:51.031 [UNE7RINXZ8TB] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 18:37:56.387 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:37:56.390 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:38:00.275 [EURBGEWSSXWN] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 18:38:00.287 [EURBGEWSSXWN] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 18:38:37.268 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:38:37.270 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:38:42.220 [WWACQ0AB9X4K] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 18:38:42.229 [WWACQ0AB9X4K] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 18:38:42.231 [WWACQ0AB9X4K] ERROR - routes/features/mosque/mosque-create/mosque_create_postgres.js:20 - An exception occurred while creating mosque : invalid input syntax for type integer: "ae35f881-2685-49a5-a011-c1cdb0f7e6a2" 
+2025-01-03 18:38:42.232 [WWACQ0AB9X4K] WARN - routes/features/mosque/mosque-create/mosque_create_api.js:43 - Response returned with code: '504' 
+2025-01-03 18:38:42.232 [WWACQ0AB9X4K] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:34 - Response sent - {"code":504,"status":false,"message":"Mosque has not been saved"} 
+2025-01-03 18:39:44.723 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:39:44.725 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:39:47.706 [VZRJBL0JLRSL] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 18:39:47.712 [VZRJBL0JLRSL] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 18:39:47.713 [VZRJBL0JLRSL] ERROR - routes/features/mosque/mosque-create/mosque_create_postgres.js:20 - An exception occurred while creating mosque : time zone "gmt+0600" not recognized 
+2025-01-03 18:39:47.715 [VZRJBL0JLRSL] WARN - routes/features/mosque/mosque-create/mosque_create_api.js:43 - Response returned with code: '504' 
+2025-01-03 18:39:47.715 [VZRJBL0JLRSL] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:34 - Response sent - {"code":504,"status":false,"message":"Mosque has not been saved"} 
+2025-01-03 18:41:29.121 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:41:29.123 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:41:33.254 [KF8Y1PZEBM2U] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 18:49:19.878 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:49:19.880 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:49:25.029 [AEWCE2ZI7URQ] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 18:49:25.035 [AEWCE2ZI7URQ] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:48 - mosque created successfully by 
+2025-01-03 18:49:25.035 [AEWCE2ZI7URQ] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:34 - Response sent - {"code":200,"status":true,"message":"Mosque has been saved","oid":5} 
+2025-01-03 18:49:40.023 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 18:49:40.026 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 18:49:44.057 [0YUJFBKD9NPY] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 18:49:44.062 [0YUJFBKD9NPY] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 18:49:44.064 [0YUJFBKD9NPY] ERROR - routes/features/mosque/mosque-create/mosque_create_postgres.js:20 - An exception occurred while creating mosque : invalid input syntax for type integer: "8aaea9d3-709c-41e8-8b8f-cdb6b1a1bc06" 
+2025-01-03 18:49:44.065 [0YUJFBKD9NPY] WARN - routes/features/mosque/mosque-create/mosque_create_api.js:43 - Response returned with code: '504' 
+2025-01-03 18:49:44.066 [0YUJFBKD9NPY] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:34 - Response sent - {"code":504,"status":false,"message":"Mosque has not been saved"} 
+2025-01-03 19:49:13.473 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 19:49:13.476 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 19:49:19.581 [FYR7PHOA6UA4] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 19:49:19.589 [FYR7PHOA6UA4] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:49 - mosque created successfully by 
+2025-01-03 19:49:19.590 [FYR7PHOA6UA4] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:34 - Response sent - {"code":200,"status":true,"message":"Mosque has been saved","oid":"51"} 
+2025-01-03 19:50:39.422 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 19:50:39.424 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 19:50:44.756 [L3GMHMEXSQTO] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 19:50:44.770 [L3GMHMEXSQTO] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:49 - mosque created successfully by 
+2025-01-03 19:50:44.772 [L3GMHMEXSQTO] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:34 - Response sent - {"code":200,"status":true,"message":"Mosque has been saved","oid":7} 
+2025-01-03 19:54:03.828 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 19:54:03.832 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 19:54:10.459 [V1KA6TJICUSW] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:32 - Request received for mosque create - {"name":"akbor mosjid","location":"mirpur-1, dhaka"} 
+2025-01-03 19:54:10.473 [V1KA6TJICUSW] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:49 - mosque created successfully by 
+2025-01-03 19:54:10.474 [V1KA6TJICUSW] DEBUG - routes/features/mosque/mosque-create/mosque_create_api.js:34 - Response sent - {"code":200,"status":true,"message":"Mosque has been saved","oid":8} 
+2025-01-03 20:45:51.471 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 20:45:51.472 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 20:45:55.310 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 20:45:55.312 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 20:51:06.784 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 20:51:06.788 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 20:51:11.711 [GFY886H7WYDF] DEBUG - routes/features/mosque/mosque-update/mosque_update_api.js:34 - Request received for mosque update - {} 
+2025-01-03 20:51:11.721 [GFY886H7WYDF] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 20:51:11.723 [GFY886H7WYDF] ERROR - routes/features/mosque/mosque-update/mosque_update_postgres.js:17 - An exception occurred while updating bank branch : syntax error at or near "Date" 
+2025-01-03 20:51:46.663 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 20:51:46.667 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 20:51:52.206 [WQDEP3A8XXE0] DEBUG - routes/features/mosque/mosque-update/mosque_update_api.js:34 - Request received for mosque update - {} 
+2025-01-03 20:51:52.217 [WQDEP3A8XXE0] INFO - routes/features/mosque/mosque-update/mosque_update_api.js:49 - mosque updated successfully by for oid: [1] 
+2025-01-03 20:51:52.218 [WQDEP3A8XXE0] DEBUG - routes/features/mosque/mosque-update/mosque_update_api.js:36 - Response sent - {"code":200,"status":true,"message":"Mosque has been updated","oid":"1"} 
+2025-01-03 20:52:05.888 [MPN9MV0FEGOE] DEBUG - routes/features/mosque/mosque-update/mosque_update_api.js:34 - Request received for mosque update - {} 
+2025-01-03 20:52:05.892 [MPN9MV0FEGOE] INFO - routes/features/mosque/mosque-update/mosque_update_api.js:49 - mosque updated successfully by for oid: [1] 
+2025-01-03 20:52:05.893 [MPN9MV0FEGOE] DEBUG - routes/features/mosque/mosque-update/mosque_update_api.js:36 - Response sent - {"code":200,"status":true,"message":"Mosque has been updated","oid":"1"} 
