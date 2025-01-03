@@ -1,0 +1,37 @@
+2025-01-02 18:10:10.180 [NO_TRACE_ID] INFO - util/dao.js:64 - Oracle connected 
+2025-01-02 18:10:10.183 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-02 18:12:15.093 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-02 18:12:15.095 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-02 18:27:00.568 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-02 18:27:00.570 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-02 18:29:31.528 [YPOEDY5QIJT7] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:33 - Checking payload: 
+2025-01-02 18:29:31.529 [YPOEDY5QIJT7] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:43 - Request received for MFI Employee dropdown list - {} 
+2025-01-02 18:29:31.569 [YPOEDY5QIJT7] ERROR - util/dao.js:108 - Unable to execute statement in database :  syntax error at or near "{" 
+2025-01-02 18:29:31.574 [YPOEDY5QIJT7] ERROR - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_postgres.js:30 - An exception occurred while getting mfi employee list for dropdown: syntax error at or near "{" 
+2025-01-02 18:30:58.610 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-02 18:30:58.616 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-02 18:31:05.322 [0MN3THO5ZFFM] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:33 - Checking payload: 
+2025-01-02 18:31:05.323 [0MN3THO5ZFFM] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:43 - Request received for MFI Employee dropdown list - {} 
+2025-01-02 18:31:05.337 [0MN3THO5ZFFM] ERROR - util/dao.js:108 - Unable to execute statement in database :  syntax error at or near "{" 
+2025-01-02 18:31:05.339 [0MN3THO5ZFFM] ERROR - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_postgres.js:34 - An exception occurred while getting mfi employee list for dropdown: syntax error at or near "{" 
+2025-01-02 18:32:00.292 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-02 18:32:00.297 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-02 18:32:04.980 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-02 18:32:04.982 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-02 18:32:11.728 [0PDCSHDGVPLO] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:33 - Checking payload: 
+2025-01-02 18:32:11.729 [0PDCSHDGVPLO] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:43 - Request received for MFI Employee dropdown list - {} 
+2025-01-02 18:32:11.738 [0PDCSHDGVPLO] ERROR - util/dao.js:108 - Unable to execute statement in database :  relation "template.mosque" does not exist 
+2025-01-02 18:32:11.742 [0PDCSHDGVPLO] ERROR - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_postgres.js:34 - An exception occurred while getting mfi employee list for dropdown: relation "template.mosque" does not exist 
+2025-01-02 18:33:12.885 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-02 18:33:12.888 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-02 18:33:17.285 [DXBF5Q02NAVL] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:33 - Checking payload: 
+2025-01-02 18:33:17.287 [DXBF5Q02NAVL] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:43 - Request received for MFI Employee dropdown list - {} 
+2025-01-02 18:33:17.295 [DXBF5Q02NAVL] ERROR - util/dao.js:108 - Unable to execute statement in database :  relation "templete.mosque" does not exist 
+2025-01-02 18:33:17.300 [DXBF5Q02NAVL] ERROR - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_postgres.js:34 - An exception occurred while getting mfi employee list for dropdown: relation "templete.mosque" does not exist 
+2025-01-02 18:33:40.425 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-02 18:33:40.426 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-02 18:33:43.138 [KI9ZWMNBOUVF] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:33 - Checking payload: 
+2025-01-02 18:33:43.139 [KI9ZWMNBOUVF] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:43 - Request received for MFI Employee dropdown list - {} 
+2025-01-02 18:33:43.151 [KI9ZWMNBOUVF] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [3] MFI Employee information found for dropdown 
+2025-01-02 18:33:43.154 [KI9ZWMNBOUVF] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:45 - Response sent - {"code":200,"status":true,"message":"Mfi employee list found","data":[{"name":"Al-Falah Mosque","mosque_id":1},{"name":"Al-Nur Mosque","mosque_id":2},{"name":"Al-Rahman Mosque","mosque_id":3}]} 
+2025-01-02 18:35:56.994 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
