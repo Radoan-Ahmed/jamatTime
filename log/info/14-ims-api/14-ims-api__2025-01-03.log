@@ -91,3 +91,47 @@
 2025-01-03 20:51:46.666 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
 2025-01-03 20:51:52.215 [WQDEP3A8XXE0] INFO - routes/features/mosque/mosque-update/mosque_update_api.js:49 - mosque updated successfully by for oid: [1] 
 2025-01-03 20:52:05.891 [MPN9MV0FEGOE] INFO - routes/features/mosque/mosque-update/mosque_update_api.js:49 - mosque updated successfully by for oid: [1] 
+2025-01-03 22:59:18.210 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 22:59:18.212 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:02:49.593 [LEJ94WCTWIXM] INFO - routes/features/mosque/mosque-list/mosque_list_api.js:48 - Returning Response for - with 8 mosque items found] 
+2025-01-03 23:03:36.970 [6KX5LKLLAZWG] ERROR - util/dao.js:108 - Unable to execute statement in database :  column reference "oid" is ambiguous 
+2025-01-03 23:03:36.972 [6KX5LKLLAZWG] ERROR - routes/features/jamat_time/jamat-time-list/jamat_time_list_postgres.js:48 - An exception occurred while getting jamat time list: column reference "oid" is ambiguous 
+2025-01-03 23:04:16.276 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:04:16.278 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:04:19.786 [GBVWJ4ILZBPF] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:48 - Returning Response for - with 15 jamat time items found] 
+2025-01-03 23:05:53.840 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:05:53.842 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:06:01.911 [XGOQ217PXET6] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:48 - Returning Response for - with 15 jamat time items found] 
+2025-01-03 23:09:53.588 [IB8J8WGHDHQT] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:48 - Returning Response for - with 5 jamat time items found] 
+2025-01-03 23:10:50.517 [FHFADOCFY0VM] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:48 - Returning Response for - with 3 jamat time items found] 
+2025-01-03 23:12:59.652 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:12:59.655 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:13:16.837 [E9EUHBLLJUTB] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 15 jamat time items found] 
+2025-01-03 23:14:04.732 [BWZBXTSQW25A] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 1 jamat time items found] 
+2025-01-03 23:14:14.516 [0FOHBGOH08JL] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-03 23:31:42.520 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:31:42.529 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:34:57.560 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:34:57.563 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:36:55.888 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:36:55.891 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:38:58.716 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:38:58.718 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:41:15.187 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:41:15.189 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:42:11.420 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:42:11.423 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:42:15.727 [ZIH0N2KXW9QT] INFO - routes/features/jamat_time/jamat-time-create/jamat_time_create_api.js:47 - jamat time created successfully by 
+2025-01-03 23:46:46.363 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:46:46.368 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:49:23.911 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:49:23.914 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:49:28.746 [1LRHTWEWCMZA] ERROR - util/dao.js:174 - Failed to execute PostgreSQL statement: 
+2025-01-03 23:49:28.748 [1LRHTWEWCMZA] ERROR - routes/features/jamat_time/jamat-time-update/jamat_time_update_postgres.js:17 - An exception occurred while updating jamat time : could not determine data type of parameter $3 
+2025-01-03 23:50:29.028 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:50:29.030 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:50:31.992 [P1R3FN7RA3YL] INFO - routes/features/jamat_time/jamat-time-update/jamat_time_update_api.js:49 - jamat time updated successfully by for oid: [8] 
+2025-01-03 23:56:13.060 [C1TAONRMLUR6] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-03 23:58:07.904 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-03 23:58:07.907 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-03 23:58:42.204 [BNBVNZFEYSNC] INFO - routes/features/jamat_time/jamat-time-create/jamat_time_create_api.js:48 - jamat time created successfully by 

@@ -1,0 +1,29 @@
+2025-01-04 00:00:24.619 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 00:00:24.622 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 00:00:59.493 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 00:00:59.496 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 00:01:44.436 [KLHV2FLASN11] INFO - routes/features/jamat_time/jamat-time-update/jamat_time_update_api.js:50 - jamat time updated successfully by for oid: [undefined] 
+2025-01-04 00:01:56.239 [ABRIV2SCASVB] INFO - routes/features/jamat_time/jamat-time-update/jamat_time_update_api.js:50 - jamat time updated successfully by for oid: [undefined] 
+2025-01-04 00:02:18.600 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 10:00:48.132 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 10:00:48.135 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 10:00:51.995 [NRQBZB1SXBPN] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:49 - mosque created successfully by 
+2025-01-04 10:01:51.735 [BV5DYZE7OGIS] INFO - routes/features/jamat_time/jamat-time-create/jamat_time_create_api.js:48 - jamat time created successfully by 
+2025-01-04 10:02:02.058 [IGSN41Q6LACQ] INFO - routes/features/jamat_time/jamat-time-create/jamat_time_create_api.js:48 - jamat time created successfully by 
+2025-01-04 10:02:11.918 [GGXR4DMIGHDV] INFO - routes/features/jamat_time/jamat-time-create/jamat_time_create_api.js:48 - jamat time created successfully by 
+2025-01-04 10:02:18.761 [YWVQP5WC5Q3T] INFO - routes/features/jamat_time/jamat-time-create/jamat_time_create_api.js:48 - jamat time created successfully by 
+2025-01-04 10:02:28.452 [YKFNYXLRKXTX] INFO - routes/features/jamat_time/jamat-time-create/jamat_time_create_api.js:48 - jamat time created successfully by 
+2025-01-04 10:03:17.260 [COBH9U8XXJO2] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-04 10:03:27.993 [36850GZCRVXY] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-04 10:09:11.275 [PIBDNGCCK2RL] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-04 10:09:17.734 [2NVDLW4FTFFC] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-04 10:10:09.664 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 10:10:09.667 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 10:10:13.019 [75X2R3FMMATF] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-04 10:10:16.644 [0OVL9VRWMGRJ] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-04 10:10:42.473 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 10:10:42.476 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 10:10:44.580 [XKNRZCPLOHSK] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-04 10:18:43.725 [2NPWNLVJGUMC] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-04 10:19:04.309 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 10:19:04.314 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 

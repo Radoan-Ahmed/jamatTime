@@ -34,6 +34,7 @@ module.exports = {
     },
     TABLE: {
         MOSQUE: "mosques",
+        JAMAT_TIMES: "jamattimes"
     },
     IMAGE_FILE_UPLOAD_TYPE: ["photo", "report"],
     APP_FILE_UPLOAD_TYPE: ["apk"],
@@ -52,6 +53,13 @@ module.exports = {
         GET_SINGLE_MOSQUE_LIST: "/v1/features/mosque/single-mosque-list",
         MOSQUE_LIST: "/v1/features/mosque/mosque-list",
         MOSQUE_DROPDOWN_LIST: "/v1/features/mosque/mosque-dropdown-list",
+
+        //jamat time
+        CREATE_JAMAT_TIME: "/v1/features/jamat-time/create-jamat-time",
+        UPDATE_SINGLE_JAMAT_TIME: "/v1/features/jamat-time/update-single-jamat-time",
+        GET_SINGLE_JAMAT_TIME: "/v1/features/jamat-time/get-single-jamat-time",
+        JAMAT_TIME_LIST: "/v1/features/jamat-time/jamat-time-list",
+        JAMAT_TIME_DROPDOWN_LIST: "/v1/features/jamat-time/jamat-time-dropdown-list",
 
     },
     MESSAGE: {
