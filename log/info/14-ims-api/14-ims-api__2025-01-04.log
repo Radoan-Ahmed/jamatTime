@@ -27,3 +27,7 @@
 2025-01-04 10:18:43.725 [2NPWNLVJGUMC] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
 2025-01-04 10:19:04.309 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
 2025-01-04 10:19:04.314 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 11:02:39.463 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 11:02:39.465 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 16:30:59.185 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 16:30:59.187 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 

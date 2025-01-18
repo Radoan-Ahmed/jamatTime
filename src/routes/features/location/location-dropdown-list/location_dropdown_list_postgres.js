@@ -15,8 +15,8 @@ class query_builder {
         let idx = 1;
 
         if (payload.name) {
-            query += ` AND name = $${idx++}`;
-            params.push(payload.name);
+            query += ` AND lower(trim(m.name)) = $${idx++}`;
+            params.push(payload.name.trim().toLowerCase());
         }
         if (payload.location) {
             query += ` AND lower(trim(location)) = $${idx++}`;
@@ -39,7 +39,7 @@ class query_builder {
         try {
             data = await Dao.get_data(request, sql);
         } catch (e) {
-            log.error(`An exception occurred while getting mfi employee list for dropdown: ${e.message}`);
+            log.error(`An exception occurred while getting location list for dropdown: ${e.message}`);
             throw e;
         }
 

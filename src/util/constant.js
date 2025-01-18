@@ -54,6 +54,9 @@ module.exports = {
         MOSQUE_LIST: "/v1/features/mosque/mosque-list",
         MOSQUE_DROPDOWN_LIST: "/v1/features/mosque/mosque-dropdown-list",
 
+        //location
+        LOCATION_DROPDOWN_LIST: "/v1/features/mosque/location-dropdown-list",
+
         //jamat time
         CREATE_JAMAT_TIME: "/v1/features/jamat-time/create-jamat-time",
         UPDATE_SINGLE_JAMAT_TIME: "/v1/features/jamat-time/update-single-jamat-time",

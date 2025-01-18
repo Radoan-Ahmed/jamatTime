@@ -1,0 +1,2 @@
+2025-01-07 21:06:08.422 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-07 21:06:08.429 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 

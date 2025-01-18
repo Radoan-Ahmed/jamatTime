@@ -59,3 +59,7 @@
 2025-01-04 10:18:43.727 [2NPWNLVJGUMC] DEBUG - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:39 - Response sent for jamat time list- {"code":200,"status":true,"message":"Jamat time list found","data":{"total":"5","rows":[{"oid":9,"prayer_name":"fazr","jamat_time":"05:30 AM","mosque_name":"college gate mosque","location":"college gate, dhaka"},{"oid":9,"prayer_name":"johor","jamat_time":"01:30 AM","mosque_name":"college gate mosque","location":"college gate, dhaka"},{"oid":9,"prayer_name":"asor","jamat_time":"04:30 AM","mosque_name":"college gate mosque","location":"college gate, dhaka"},{"oid":9,"prayer_name":"magrib","jamat_time":"06:30 AM","mosque_name":"college gate mosque","location":"college gate, dhaka"},{"oid":9,"prayer_name":"esa","jamat_time":"09:30 AM","mosque_name":"college gate mosque","location":"college gate, dhaka"}]}} 
 2025-01-04 10:19:04.312 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
 2025-01-04 10:19:04.315 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 11:02:39.463 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 11:02:39.466 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 
+2025-01-04 16:30:59.186 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-04 16:30:59.188 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3001 

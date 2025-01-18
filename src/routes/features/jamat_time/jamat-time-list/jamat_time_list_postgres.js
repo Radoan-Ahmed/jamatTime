@@ -2,7 +2,7 @@
 const log = require("../../../../util/log")
 const Dao = require("../../../../util/dao")
 const { TABLE, SCHEMA } = require("../../../../util/constant")
-const { is_null_or_empty , get_data_with_count} = require("../../../../util/helper")
+const { is_null_or_empty, get_data_with_count } = require("../../../../util/helper")
 class query_builder {
     get_data = async request => {
         let payload = request.payload
@@ -14,16 +14,13 @@ class query_builder {
             JOIN ${SCHEMA.TEMPLATE}${TABLE.MOSQUE} m ON m.oid = j.oid
             WHERE 1 = 1`
 
-        if(payload.location) {
-            query += ` and m.location ilike $${idx}`
-            idx++
-            params.push("%" + payload.location.trim() + "%")
+        if (payload.mosque_name) {
+            query += ` AND name = $${idx++}`;
+            params.push(payload.mosque_name);
         }
-
-        if(payload.mosque_name) {
-            query += ` and m.name ilike $${idx}`
-            idx++
-            params.push("%" + payload.mosque_name.trim() + "%")
+        if (payload.location) {
+            query += ` AND lower(trim(location)) = $${idx++}`;
+            params.push(payload.location.trim().toLowerCase());
         }
 
         if (payload.search_text) {

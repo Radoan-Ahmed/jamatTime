@@ -15,9 +15,9 @@ const request_payload = Joi.object({
 
 const route_controller = {
     method: "POST",
-    path: API.CONTEXT + API.MOSQUE_DROPDOWN_LIST,
+    path: API.CONTEXT + API.LOCATION_DROPDOWN_LIST,
     config: {
-        description: "Mosque Dropdown List",
+        description: "Location Dropdown List",
         plugins: { hapiAuthorization: false },
         validate: {
             payload: request_payload,
@@ -34,7 +34,7 @@ const route_controller = {
                     if (request.payload) {
                         log.debug("Checking payload:", JSON.stringify(request.payload));
                     } else {
-                        log.debug("No payload found in the request for mfi employee dropdown.");
+                        log.debug("No payload found in the request for location dropdown.");
                     }
                     return h.continue;
                 }
@@ -42,7 +42,7 @@ const route_controller = {
         }
     },
     handler: async (request, h) => {
-        log.debug(`Request received for MFI Employee dropdown list - ${JSON.stringify(request.payload)}`)
+        log.debug(`Request received for location dropdown list - ${JSON.stringify(request.payload)}`)
         const response = await handle_request(request)
         log.debug(`Response sent - ${JSON.stringify(response)}`)
         return h.response(response)
@@ -51,8 +51,8 @@ const route_controller = {
 
 const handle_request = async request => {
     let data = await Helper.get_query_path(__dirname, route_filename).get_data(request)
-    log.info(`[${data.length}] MFI Employee information found for dropdown`)
-    let response = Helper.generate_response({ method: METHOD.READ, feature_name: "mfi employee", status_code: 200, data })
+    log.info(`[${data.length}] location information found for dropdown`)
+    let response = Helper.generate_response({ method: METHOD.READ, feature_name: "location", status_code: 200, data })
     return response
 }
 

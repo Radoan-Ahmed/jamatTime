@@ -1,0 +1,5 @@
+2025-01-05 12:34:32.005 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-05 12:34:32.007 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-05 12:34:49.472 [DPAE6Z5ULASY] INFO - routes/features/mosque/mosque-create/mosque_create_api.js:49 - mosque created successfully by 
+2025-01-05 18:33:47.626 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-05 18:33:47.628 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 

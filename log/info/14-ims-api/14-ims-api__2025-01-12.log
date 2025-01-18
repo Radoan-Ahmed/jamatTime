@@ -1,0 +1,87 @@
+2025-01-12 00:00:07.548 [AHXHWP1C99NO] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:04:58.739 [GNLTVXHPH1KI] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:09:00.136 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 00:09:00.139 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 00:09:46.256 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 00:09:46.259 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 00:10:15.362 [I3TSTT5UL7PB] INFO - routes/features/mosque/mosque-list/mosque_list_api.js:48 - Returning Response for - with 10 mosque items found] 
+2025-01-12 00:10:29.699 [XZJW9FGO4QO0] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:53 - [1] MFI Employee information found for dropdown 
+2025-01-12 00:15:46.766 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 00:15:46.769 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 00:15:54.934 [KZ8EPCVEMMNY] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:16:22.856 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 00:16:22.858 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 00:17:02.959 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 00:17:02.961 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 00:17:05.844 [XPBS5RY31RMZ] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 00:20:59.628 [CN2OIBT95UW7] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:23:49.533 [KNWIW0EKBWOB] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:24:44.136 [GCFKKONVPUYC] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:31:17.493 [BF6PZREE2IVA] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:32:23.625 [0F2RAA7TAHQG] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:33:24.164 [QFVG07OHJVYJ] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 00:33:30.122 [G1DIKEQD7GKY] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 00:33:42.181 [VCEWIURDAFTK] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 00:37:31.441 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 00:37:31.444 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 15:23:50.514 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 15:23:50.516 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 15:24:19.471 [KR0VSFLIKJ8Y] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 15:28:06.537 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 15:28:06.541 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 15:29:22.178 [MNHOIHNZ9NDB] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 15:29:54.284 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 15:29:54.287 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 15:29:56.066 [8ZGOSSTLS18C] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 15:33:29.628 [VYBDAG3C7WKQ] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [10] MFI Employee information found for dropdown 
+2025-01-12 15:33:34.402 [OPQJFXIMND6T] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 15:42:52.750 [7KI1KYL0NHKB] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [0] location information found for dropdown 
+2025-01-12 15:43:35.917 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 15:43:35.920 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 15:43:39.619 [K8EICCS2BWGJ] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [0] location information found for dropdown 
+2025-01-12 15:44:01.871 [AQJGTUCG6VFX] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 15:44:11.521 [Y3K5EUGNZDR8] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [0] location information found for dropdown 
+2025-01-12 15:44:18.179 [HAFE92SOZJKU] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [0] location information found for dropdown 
+2025-01-12 15:44:22.180 [XZIS5R7KW3V3] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 15:45:06.846 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 15:45:06.849 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 15:45:11.798 [UKU4NY6CFJXZ] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 15:45:19.734 [MJPXND4DQIC5] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [1] location information found for dropdown 
+2025-01-12 15:45:24.545 [8HMEHR0RO4KR] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [0] location information found for dropdown 
+2025-01-12 15:45:28.156 [CKBZ1EFVDPU9] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [1] location information found for dropdown 
+2025-01-12 15:46:05.060 [RKAZJSB97XVX] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [1] location information found for dropdown 
+2025-01-12 15:46:33.387 [IJVPRXZBRGZU] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 17:02:58.162 [LPEL81JBYPJI] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 17:03:03.228 [QWQF1HURNYDS] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:03:08.430 [D06WXRKBADZZ] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:03:18.079 [0LKIPIQMGKKE] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:03:21.143 [PUJQ5RATFNDZ] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:03:59.224 [IVMGMALBAOPT] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 17:04:03.502 [PCOGTAAIN9OG] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:04:51.586 [BN4Y3LOIMCC3] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:17:32.168 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 17:17:32.172 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 17:18:39.609 [DUFBFWZ5ZZRR] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-12 17:18:42.963 [TPY5MBBOG8XM] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-12 17:20:47.638 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 17:20:47.642 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 17:20:52.761 [SHL5XMGKE5BB] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-12 17:21:01.836 [BGCYBQVJ2W3A] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 23 jamat time items found] 
+2025-01-12 17:21:25.611 [KYJMXLWYNLEX] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-12 17:49:34.124 [KWKRXTURQJPD] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 17:49:39.611 [NARQPLXZHPMN] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:49:41.789 [CMZDYCYH0WOX] WARN - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:47 - No jamat time data found 
+2025-01-12 17:49:46.569 [JQJBCXKSK3PK] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:49:48.137 [ZHDQABT5WCH6] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-12 17:50:20.115 [HFKE79AY7CIE] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:51:48.428 [YYH3XLE1QXU5] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 17:51:56.829 [AFQNCE5JTLDN] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:51:58.294 [KYOO1SZNKID7] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-12 17:52:24.225 [LJQITJUMUJVF] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 17:52:27.292 [NMUVRFGEF9X8] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 17:52:30.525 [WHSOOWGXSOP1] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 
+2025-01-12 22:25:11.930 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-12 22:25:11.933 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-12 22:26:26.164 [5RAADLFHFKFV] INFO - routes/features/location/location-dropdown-list/location_dropdown_list_api.js:54 - [10] location information found for dropdown 
+2025-01-12 22:26:33.202 [P6VNTEFASGMO] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:54 - [1] MFI Employee information found for dropdown 
+2025-01-12 22:26:35.842 [ZKLJFLHMJAU1] INFO - routes/features/jamat_time/jamat-time-list/jamat_time_list_api.js:50 - Returning Response for - with 5 jamat time items found] 

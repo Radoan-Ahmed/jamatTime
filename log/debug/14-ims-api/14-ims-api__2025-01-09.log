@@ -1,0 +1,9 @@
+2025-01-09 17:37:11.842 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-09 17:37:11.843 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-09 17:38:29.926 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-09 17:38:29.928 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-09 17:41:47.844 [YLFJEVUSN8UG] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:33 - Checking payload: 
+2025-01-09 17:41:47.849 [YLFJEVUSN8UG] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:43 - Request received for MFI Employee dropdown list - {} 
+2025-01-09 17:41:47.906 [YLFJEVUSN8UG] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [10] MFI Employee information found for dropdown 
+2025-01-09 17:41:47.907 [YLFJEVUSN8UG] DEBUG - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:45 - Response sent - {"code":200,"status":true,"message":"Mfi employee list found","data":[{"name":"Al-Nur Mosque","oid":2,"location":"Chittagong, Bangladesh"},{"name":"Al-Rahman Mosque","oid":3,"location":"Rajshahi, Bangladesh"},{"name":"Al-Falah Mosque","oid":4,"location":"Dhaka, Bangladesh"},{"name":"akbor mosjid","oid":5,"location":"mirpur-1, dhaka"},{"name":"akbor mosjid","oid":51,"location":"mirpur-1, dhaka"},{"name":"akbor mosjid","oid":7,"location":"mirpur-1, dhaka"},{"name":"akbor mosjid","oid":8,"location":"mirpur-1, dhaka"},{"name":"akbor mosjid","oid":1,"location":"mirpur-2, dhaka"},{"name":"college gate mosque","oid":9,"location":"college gate, dhaka"},{"name":"mirpur jame mosque","oid":10,"location":"mirpur -2, dhaka"}]} 
+2025-01-09 18:07:57.777 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 

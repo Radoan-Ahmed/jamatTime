@@ -1,0 +1,6 @@
+2025-01-09 17:37:11.841 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-09 17:37:11.843 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-09 17:38:29.924 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
+2025-01-09 17:38:29.928 [NO_TRACE_ID] INFO - server.js:86 - Hapi js(21.3.12) running on http://0.0.0.0:3007 
+2025-01-09 17:41:47.905 [YLFJEVUSN8UG] INFO - routes/features/mosque/mosque-dropdown-list/mosque_dropdown_list_api.js:52 - [10] MFI Employee information found for dropdown 
+2025-01-09 18:07:57.776 [NO_TRACE_ID] INFO - util/dao.js:58 - Postgres connected 
